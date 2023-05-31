@@ -2,9 +2,19 @@ body{
     margin: 0px;
     padding: 0px;
     background: #F3F5FC;
-    box-shadow: 2px 2px 2px 1px #b3bcc7;
-
+    
   }
+
+#ser{
+  width: 200px;
+  height: 200px;
+  margin-right: 90%;
+  margin-left: 8%;
+  box-shadow: 2px 2px 2px 1px #f3f7fc;
+  border-radius: 80px;
+
+}
+
   .container{
     margin: auto;
     width: 960px;
